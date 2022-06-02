@@ -2,7 +2,7 @@
 
 En esta lección los alumnos deben entender las reglas que deben seguir para escribir y entender correctamente el lenguaje Python.
 
-Todo lenguaje de programación tiene los siguientes elementos: una gramática, un léxico y una sintaxis
+Todo lenguaje de programación tiene los siguientes elementos: una gramática y una sintaxis
 
   ## Objetivos de aprendizaje
   1. Entender las reglas para escribir código Python
